@@ -1,4 +1,8 @@
 ## This is a fork of imwheel utility for linux, originally made by Jonathan Atkins <jcatki@jonatkins.org>
+
+imwheel allows to grab input from the mouse, modify it and send it to the system.
+For example, it's one of the easiest way to change the scrolling wheel speed on linux.
+You can also modify mouse behaviour for selected programs.
 					 
 
 # Overview
