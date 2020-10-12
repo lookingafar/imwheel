@@ -3,6 +3,9 @@
 imwheel allows to grab input from the mouse, modify it and send it to the system.
 For example, it's one of the easiest way to change the scrolling wheel speed on linux.
 You can also modify mouse behaviour for selected programs.
+
+Detailed instructions can be found here:
+https://wiki.archlinux.org/index.php/IMWheel
 					 
 
 # Overview
